@@ -1,0 +1,15 @@
+Cornell Parking Structure%-106.618779%35.082035
+Yale Parking Structure%-106.620997%35.08788
+Parking Lot (East of Health Sciences Service)%-106.616752%35.090961
+Parking lot (East of North Golf Course)%-106.619917%35.092087
+Parking lot (West of North Golf Course)%-106.620794%35.092555
+Handicapped Parking by HSS Building%-106.617073%35.090757
+Meter Parking in East M lot%-106.61989%35.09135
+Handicapped Parking by Mental Health Center%-106.615602%35.090567
+Handicapped Parking by Family Practice Center%-106.619107%35.090856
+Handicapped Parking by Observatory%-106.621802%35.091149
+UNMH Patient Parking (North of Lomas Blvd)%-106.619149%35.088762
+Handicapped Parking by the Hospital%-106.619568%35.089803
+Handicapped Parking at the Law School%-106.618425%35.09309
+Parking (University Psychiatric Service)%-106.615491%35.090983
+Administrative Parking%-106.616864%35.090531

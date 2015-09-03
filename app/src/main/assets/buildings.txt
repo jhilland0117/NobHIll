@@ -1,0 +1,303 @@
+Aerospace Studies%AERO%-106.621681%35.087059
+Alumni Memorial Chapel%ALUMNI%-106.624423%35.08497
+Alvarado Hall Dormitory%ALVRDO%-106.614585%35.084951
+Anthropology%ANTHO%-106.625041%35.085427
+Anthropology Annex%ANTHX%-106.624241%35.083407
+Anthropology Storage And PPD Training%ANTHST%-106.622544%35.089249
+Army ROTC%ARMY%-106.622701%35.088868
+Army Rotc Annex%%-106.622552%35.088688
+Art Building%ART%-106.62131%35.08268
+Art Annex%ARTX%-106.624881%35.081529
+Athletics%ATHLET%-106.629345%35.065659
+Athletics Maintenance Building%ATHMNT%-106.628723%35.06454
+Automotive%AUTOMO%-106.623725%35.091298
+Baker Memorial Building%%-106.626457%35.068019
+Bandelier Hall East%BANDE%-106.624259%35.084299
+Bandelier Hall West%BANDW%-106.624703%35.084467
+Barbara And Bill Richardson Pavilion%BBRP%-106.618811%35.088136
+Baseball Batting Cages%%-106.632326%35.064591
+Baseball Press Box%%-106.633101%35.064647
+Basic Medical Sciences%BSMB%-106.618059%35.089834
+Biology Annex%BIOANX%-106.623622%35.082809
+Biomedical Research Facility%BRF%-106.618514%35.089822
+Bookstore%%-106.620441%35.081352
+Bratton Hall%BRATTN%-106.618475%35.09348
+Bureau Of Business And Economic Research Data Bank%DATA%-106.620649%35.087134
+Bus Stop Shelter%%-106.624774%35.095993
+Cancer Research Facility%CRF%-106.619089%35.089448
+Carlisle Gymnasium%CARL%-106.622694%35.083766
+Carrie Tingley Hospital%CTHOSP%-106.627354%35.093524
+Counseling, Assistance And Referral Service%CARS%-106.623914%35.08823
+Casita De Milagros%%-106.627959%35.093942
+Castetter Hall%CAST%-106.622944%35.082411
+Centennial Engineering Center%CRC%-106.625801%35.083168
+Center For The Arts%CTRART%-106.620228%35.082726
+Center For Wildlife Law%WILDLW%-106.627376%35.097183
+Child Care Center%%-106.625941%35.095767
+Child Care Center%%-106.625473%35.095669
+Child Care Center%%-106.625815%35.095176
+Child Care Center%%-106.626025%35.095456
+Chilled Water Plant%%-106.619715%35.08732
+Clark Hall%CLARK%-106.623443%35.083652
+Clinical and Translational Science Center%CRTC%-106.617464%35.089095
+Cogeneration Plant%%-106.616268%35.086606
+Communication And Journalism%COMMJ%-106.623085%35.081448
+Concession Stand%%-106.628208%35.066798
+Concessions%%-106.627704%35.06683
+Concessions%%-106.628232%35.066667
+Concessions%%-106.628084%35.066658
+Consortium For Enviro. Research, Informatics and Art%CERIA%-106.621659%35.08344
+Continuing Education%CENOR%-106.626853%35.099932
+Continuing Education South Wing%CESOU%-106.627035%35.09957
+Contract Archeology and P.P.D. Warehouse%CONTAR%-106.625048%35.090509
+Coronado Hall Dormitory%%-106.61459%35.083808
+Crystal Growth Facility%CRYSTL%-106.630228%35.071267
+Dane Smith Hall%DSH%-106.623484%35.086207
+Dermatology Building%%-106.63111%35.090508
+Devargas Hall Dormitory%DEVARG%-106.616781%35.086092
+Diabetes Control And Complications Trial%DIABET%-106.61642%35.089351
+Dispute Resolution%DISP%-106.623867%35.086476
+Domenici Center For Health Sciences Education%DOMCTR%-106.617893%35.090907
+Duck Pond%%-106.622197%35.084901
+Economics%ECON%-106.620791%35.086302
+Education Classrooms%EDUC%-106.6198%35.085014
+Electrical And Computer Engineering%EECE%-106.624782%35.083334
+Empirical Ethics Group, HSC Department Of Psychiatry%EEG%-106.6144%35.090795
+Encino Plaza #09%%-106.633888%35.088308
+Equal Opportunity Programs%EOP%-106.62432%35.086163
+Estufa%%-106.625892%35.083889
+Extended University%%-106.624134%35.087344
+EMS Academy%%-106.619656%35.090209
+Casas del Rio%%-106.615578%35.085123
+Collaborative Teaching and Learning Building%CTL%-106.6196705%35.0857258
+Family Health: University Clinic%FAMILY%-106.627299%35.094557
+Family Practice Center%FPCT%-106.618823%35.090201
+Farris Engineering Center%FEC%-106.625207%35.08257
+Fine Arts Museum%%-106.620228%35.082726
+Ford Utilities Center%%-106.625185%35.083859
+Gazebo%%-106.625362%35.081757
+Geology Museum%%-106.622518%35.083105
+George Pearl Hall%PEARL%-106.619076%35.081349
+Golf Course Maintenance%%-106.619709%35.09622
+Greenhouse Conservatory%%-106.622944%35.082411
+Health Sciences And Services Building%HSSB%-106.617239%35.09053
+Health Sciences Center University Counsel%HSCUC%-106.614428%35.089262
+Hibben Center For Archaeology Research%HIBB%-106.625307%35.084734
+High Performance Computing Center (HPC)/ Art, Research, Technology and Science Laboratory (Arts Lab Old) (Galles Bldg)%%-106.627578%35.082217
+Hodgin Hall%HODGIN%-106.625632%35.081686
+Hokona Hall (Housing)%HOKW%-106.618394%35.086434
+Hospital Operations For Patients And Employees%%-106.634016%35.071358
+House Of Prevention Epidemiology (Hope)%%-106.623037%35.087593
+HSC Public Affairs%HSCPA%-106.617243%35.091081
+Huber House%%-106.613973%35.085335
+Human Resources%%-106.62461%35.089289
+Humanities%HUM%-106.620936%35.083825
+Indoor Practice Facility%%-106.62644%35.065323
+Indoor Tennis Dome%TENNIS%-106.629486%35.064596
+Information Technologies Building%ITB%-106.615373%35.087082
+Information Technologies North%ITN%-106.621079%35.089137
+Institute For Ethics%ETHIC%-106.614385%35.090374
+Institute For Public Policy%%-106.623642%35.08789
+Institute for Social Research%%-106.614194%35.080505
+Integrity Building%%-106.631898%35.090664
+John and June Perovich Business Center%%-106.62461%35.089289
+Johnson Field%%-106.616132%35.082627
+Johnson Gallery%%-106.620228%35.082726
+Jonson Gallery/RWJ%JONGAL%-106.621288%35.087111
+Jorrin Seminar Room%%-106.622451%35.088177
+Kiva Lecture Hall%KIVA%-106.618974%35.084798
+KNME TV Store and Development Dept.%%-106.625614%35.094596
+KNME TV Studio%KNME%-106.624566%35.09406
+La Posada Dining Hall%LAPO%-106.61631%35.085553
+Laguna Hall Dormitory%LAGUNA%-106.617%35.08571
+Landscape And Grounds Greenhouse%%-106.624782%35.091333
+Landscape Equipment Building%%-106.624522%35.087074
+Latin American Data Base And Latin American Outreach%LADB%-106.622168%35.088249
+Latin American/Iberian Institute%LAII%-106.622252%35.087908
+Latin American/Iberian Institute Garage%%-106.622154%35.087928
+Lobo Lab At Student Union%%-106.620235%35.083909
+Lobo Tennis Club%%-106.629919%35.065135
+Lobo Village%%-106.635641%35.06801
+Logan Hall%LOGAN%-106.624259%35.082304
+Lomas Parking Structure%%-106.616785%35.086914
+Lock Shop: Physical Plant Department%%-106.622853%35.090277
+Internal Audit%LINK%-106.623912%35.085956
+Manzanita Center%MANZ%-106.618458%35.08487
+Marron Hall%MARN%-106.622928%35.08189
+Masley Hall%MASLEY%-106.619074%35.085028
+Masley Hall Art Gallery%%-106.619074%35.085028
+Materiel Management (Records Management And Postal Services)%%-106.624722%35.093558
+Mattox Sculpture Center%MATTOX%-106.629019%35.08247
+Mechanical Engineering%MECH%-106.625822%35.082607
+Mental Health Center: Administration / Activity%%-106.616293%35.090705
+Mental Health Center: Inpatient%%-106.615958%35.090246
+Mental Health Center: Programs For Children%%-106.61554%35.090118
+Mental Health Center: Psycho Social Rehab%%-106.61511%35.09017
+Mesa Vista Hall%MVH%-106.618945%35.084066
+Meteoric Museum%%-106.622518%35.083105
+Mitchell Hall%MITCH%-106.622672%35.084227
+Multidisciplinary Research Facility%%-106.614617%35.090012
+Naval Science%NAVAL%-106.621624%35.087721
+New Mexico Children's Psychiatric Center Administration Building%CPHADM%-106.621356%35.092152
+New Mexico Children's Psychiatric Center Brazos Cottage%CPHBRA%-106.621287%35.092844
+New Mexico Children's Psychiatric Center Capitan Cottage%CPHCPT%-106.621658%35.093133
+New Mexico Children's Psychiatric Center Chama Cottage%CPHCHA%-106.622305%35.092408
+New Mexico Children's Psychiatric Center Cibola Cottage%CPHCIB%-106.622353%35.092177
+New Mexico Children's Psychiatric Center Commons And Service Building%CPHCOM%-106.621277%35.093145
+New Mexico Children's Psychiatric Center Day Treatment Center%CPHDTC%-106.622112%35.09307
+New Mexico Children's Psychiatric Center Education Building%CPHEDU%-106.621405%35.092042
+New Mexico Children's Psychiatric Center Gila Cottage%CPHGIL%-106.621984%35.092199
+New Mexico Children's Psychiatric Center Jemez Office Building%CPHJEM%-106.622544%35.093289
+New Mexico Children's Psychiatric Center Pecos Cottage%CPHPEC%-106.621742%35.092832
+New Mexico Children's Psychiatric Center Storage/Shop%%-106.622864%35.093247
+New Mexico Law Center%%-106.613949%35.088222
+North Golf Course Clubhouse%%-106.620277%35.092447
+Northrop Hall%NTHP%-106.622518%35.083105
+Novelty Booth%%-106.627925%35.066829
+Novelty Booth%%-106.62779%35.06683
+Novelty Booth%%-106.628355%35.066656
+Novitski Hall%NOVH%-106.620596%35.090522
+Nuclear Engineering Laboratory%NUCL%-106.625943%35.082155
+Nursing and Pharmacy%NRPH%-106.617248%35.089979
+Observatory%OBSV%-106.621977%35.091046
+Office Of Research%HRPER%-106.624442%35.086002
+Office Of The Medical Investigator%%-106.619709%35.090307
+Onate Hall%ONATE%-106.613685%35.084625
+Ortega Hall%ORTG%-106.621663%35.084172
+Orthopaedics%%-106.629666%35.089603
+Outpatient Surgery and Imaging Center%OSIC%-106.627196%35.095891
+P.P.D. Storage%%-106.624468%35.090312
+Parking And Transportation Services%PATS%-106.627156%35.081557
+PATS Parking Facility%%-106.627664%35.089984
+PATS Transportation Facility%%-106.627236%35.090428
+Peace Corps%%-106.622464%35.088338
+Pete And Nancy Domenici Hall%DOMIN%-106.621621%35.095188
+Pharmacy Programs%PHARM%-106.614407%35.089993
+Physics And Astronomy%PANDA%-106.620486%35.088649
+Planning And Campus Development - PCD%PCD%-106.622371%35.08912
+PPD Annex%%-106.628072%35.082425
+Project Link Service Center%%-106.623865%35.08604
+Psychiatry%%-106.614384%35.090144
+Psychology Clinic%%-106.624343%35.086484
+Pump House%%-106.621333%35.084354
+R.O. Anderson Graduate School Of Management%GSM%-106.620904%35.086702
+R.O. Anderson School Of Management%ASM%-106.619734%35.086347
+Randy Briggs Indoor Tennis Dome%BRIGGS%-106.63026%35.064632
+Redondo Village Student Residences%%-106.614266%35.083088
+Redondo Village Student Residences%%-106.614276%35.082727
+Redondo Village Student Residences%%-106.614151%35.082317
+Redondo Village Student Residences%%-106.614383%35.082125
+Redondo Village Student Residences%%-106.614692%35.082324
+Regener Hall%REGH%-106.624765%35.082672
+Rehab Services%%-106.630667%35.09037
+Research Incubator Building%RIB%-106.615133%35.089929
+Residence%%-106.625656%35.087559
+Residence%%-106.623934%35.087348
+Residence%%-106.623296%35.087582
+Residence%%-106.62284%35.087564
+Residence Building%%-106.624986%35.088425
+Restrooms%%-106.62811%35.066818
+Restrooms%%-106.628024%35.066819
+Restrooms, Ticket Sales, and Storage%%-106.627912%35.066689
+Robert Hartung Building%%-106.618679%35.080821
+Rudy Davalos Basketball Center%%-106.632058%35.066184
+Safety, Health And Environmental Affairs%SHEA%-106.623942%35.09261
+Santa Ana Hall Dormitory%%-106.615889%35.084994
+Santa Clara Hall Dormitory%%-106.617343%35.085538
+Sara Raynolds Hall%SARAR%-106.623934%35.081444
+Scholes Hall%SCHL%-106.623811%35.085384
+School Of Medicine Building No.2%SOM2%-106.617208%35.089498
+Science and Mathematics Learning Center%%-106.624256%35.083828
+Science And Technology Park (Park North) Office And Light Lab Facility Light%%-106.631283%35.072896
+Science And Technology Park and Technology Commercialization Center%TCC%-106.633308%35.070269
+Science And Technology Park Center For High Tech Materials%CHTM%-106.634304%35.070264
+Science And Technology Park Manufacturing Technology And Training Center%MTTC%-106.632096%35.073002
+Science And Technology Park New Mexico Engineering Research Institute%NMERI%-106.631426%35.072053
+Science And Technology Park Park Center%STPC%-106.630862%35.072337
+Science And Technology Park Parking Structure%%-106.633276%35.072966
+Science And Technology Park UNM/SNL Advanced Materials Laboratory%ADVMAT%-106.631493%35.07098
+Service Building (PPD and OCP)%SERV%-106.62367%35.090456
+Simpson Hall%SIMP%-106.618412%35.085352
+Sleep Disorders Center%%-106.629867%35.090294
+Small Engine Repair Shop%%-106.624719%35.091122
+Smith Plaza%%-106.620828%35.084297
+Social Sciences%SSCO%-106.620604%35.085841
+Softball Home Team Facility%%-106.63389%35.064954
+Softball Visitors Dugout%%-106.63427%35.064701
+Southwest Hispanic Research Institute And Chicano Studies%%-106.622462%35.087957
+Southwest Research And Information Center%SHRI%-106.618457%35.080721
+Special Programs: Ronald McNair Scholars Program, Research Opportunity Program, And College Preparation Program%AAP%-106.620354%35.087116
+Student Family Housing%%-106.624579%35.07245
+Student Family Housing%%-106.624135%35.072372
+Student Family Housing%%-106.624564%35.072029
+Student Family Housing%%-106.625967%35.072292
+Student Family Housing%%-106.626236%35.07195
+Student Family Housing%%-106.626583%35.072369
+Student Family Housing%%-106.624157%35.07185
+Student Family Housing%%-106.624326%35.071378
+Student Family Housing%%-106.624636%35.071708
+Student Family Housing%%-106.626036%35.07154
+Student Family Housing%%-106.626453%35.071317
+Student Family Housing%%-106.626418%35.071658
+Student Family Housing%%-106.625348%35.071553
+Student Health Center And Undergraduate Studies%SHC%-106.618964%35.083174
+Student Residence Center%%-106.616847%35.084758
+Student Residence Center%%-106.617215%35.084747
+Student Residence Center%%-106.617547%35.084735
+Student Residence Center%%-106.617806%35.084774
+Student Residence Center%%-106.617574%35.084985
+Student Residence Center%%-106.617844%35.085014
+Student Residence Center%%-106.617883%35.085254
+Student Residence Center%%-106.617489%35.085176
+Student Residence Center%%-106.617304%35.085117
+Student Residence Center%%-106.617352%35.084976
+Student Residence Center%%-106.616946%35.084978
+Student Residence Center%%-106.616737%35.08499
+Student Residence Center%%-106.616501%35.08455
+Student Residence Center%%-106.61612%35.084632
+Student Residence Center Commons%%-106.616454%35.084911
+Student Support and Success Center%%-106.631249%35.069348
+Student Support Services And Deaf and Hard Of Hearing Services%SSDHH%-106.620969%35.087133
+Student Union Building%NMU%-106.620235%35.083909
+Surge Building%SURGE%-106.61566%35.089776
+Student Employment Office%%-106.619183%35.083745
+Tamarind Institute%AAPX%-106.617682%35.080695
+Technology and Education Center%TECH%-106.619029%35.085709
+Telemedicine Program%TELEME%-106.616628%35.091195
+Tickets/Restrooms%%-106.628319%35.066797
+Title V and Mentoring Institute%PSYC%-106.624346%35.086494
+Tow Diehm Athletic Facility%TOWDEH%-106.627773%35.066118
+Travelstead Hall%TRAV%-106.61953%35.085246
+University Advisement and Enrichment Center%UAEC%-106.618184%35.0842
+University Arena (Basketball Arena - A.K.A. The Pit) Arena%%-106.632134%35.067358
+University Club%UCLUB%-106.620071%35.087147
+University House%UNIVH%-106.621407%35.086369
+University Of New Mexico Hospital%UNMH%-106.617042%35.088566
+University Of New Mexico Hospital - Central Utility Bldg%%-106.616235%35.089212
+University Services%%-106.624611%35.093771
+University Stadium%%-106.628919%35.067001
+University Stadium Electrical Vault%STAD%-106.628015%35.06746
+University Stadium Seating And Press Box%%-106.629096%35.067144
+UNM Cancer Center%%-106.628242%35.095965
+UNM Dental Clinic%%-106.624456%35.095447
+UNM Health Services Center%%-106.627174%35.094267
+UNM Hospital Ambulatory Care Center%ACC%-106.617456%35.087863
+UNM Main Substation%%-106.619359%35.087281
+UNM Mental Health Center Programs%MHCP%-106.614399%35.090545
+UNM North Campus Substation%%-106.623729%35.09196
+UNM Press%%-106.634659%35.072598
+UNM Resident Theatre Group%%-106.624434%35.088668
+UNM Support Building 1%%-106.628318%35.082443
+UNM Support Building 2%%-106.628131%35.082094
+UNM Support Building 3%%-106.631728%35.091046
+UNMH Parking Structure%%-106.619391%35.088564
+UNMH Patient Financial Services%%-106.617344%35.090584
+Warehouse%%-106.623951%35.092069
+Warehouse Building (PPD Quonset No.1)%%-106.624336%35.090754
+Warehouse Building (PPD Quonset No.2)%%-106.62446%35.090983
+Welding Shop (PPD Quonset No.3)%%-106.62451%35.091123
+Well No.8 North Golf Course%%-106.619821%35.0964
+Woodward Center%%-106.63756%35.089522
+Woodward Lecture Hall%WOOD%-106.620946%35.083454
+Yale Mall%%-106.622089%35.083348
+UNM Hospitals Emergency Room / Urgent Care%%-106.618346%35.08788

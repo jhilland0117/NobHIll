@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Search, should appear as action button -->
+    <!--item android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="@string/action_search"
+        android:showAsAction="ifRoom" /-->
+    <!-- Settings, should always be in the overflow -->
+
+    <item
+        android:id="@+id/dropdown"
+        android:icon="@drawable/ic_launcher"
+        android:orderInCategory="1"
+        android:title="More"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/buildings"
+                android:icon="@drawable/ic_building_icon"
+                android:title="@string/buildings"/>
+            <item
+                android:id="@+id/parking"
+                android:icon="@drawable/ic_parking_icon"
+                android:title="@string/parking"/>
+
+            <item
+                android:id="@+id/computer_labs"
+                android:icon="@drawable/ic_computer_icon"
+                android:title="@string/computers"/>
+            <item
+                android:id="@+id/food"
+                android:icon="@drawable/ic_food_icon"
+                android:title="@string/food"/>
+            <item
+                android:id="@+id/dorms"
+                android:icon="@drawable/ic_dorm_icon"
+                android:title="@string/dorms"/>
+            <item
+                android:id="@+id/libraries"
+                android:icon="@drawable/ic_book_icon"
+                android:title="@string/libraries"/>
+        </menu>
+    </item>
+
+
+</menu>

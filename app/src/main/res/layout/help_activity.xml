@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HelpPage">
+
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="297dp">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_margin="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="Welcome"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="References"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/ref1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_menu_icon"
+        android:drawableStart="@drawable/ic_menu_icon"
+        android:onClick="openlists"
+        android:text="\t UNM Campus Destinations" />
+
+
+
+    <!--Button
+        android:id="@+id/ref4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_action_overflow2"
+        android:drawableStart="@drawable/ic_action_overflow2"
+        android:onClick="openlists2"
+        android:text="Filtered Destinations" /-->
+
+    <Button
+        android:id="@+id/ref5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="crash"
+        android:text="\t Crash App" />
+
+</LinearLayout>

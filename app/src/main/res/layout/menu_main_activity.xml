@@ -1,0 +1,154 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:layout_marginTop="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffffff"
+        android:orientation="vertical"
+        tools:context=".MenuMain" >
+
+        <Button
+            android:id="@+id/map"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:text="@string/map"
+            android:layout_marginTop="12dp"
+            android:onClick="openmap" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/map"
+            android:id="@+id/filter"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            style="?android:attr/borderlessButtonStyle"
+            android:text="@string/filter"
+            android:onClick="filteringLocations"
+
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/filter"
+            android:id="@+id/events"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            style="?android:attr/borderlessButtonStyle"
+            android:text="@string/events"
+            android:onClick="filteringLocations"
+
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/events"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/places"
+            style="?android:attr/borderlessButtonStyle"
+            android:text="@string/places"
+            android:onClick="openPlaces"
+
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/places"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            style="?android:attr/borderlessButtonStyle"
+            android:text="@string/nh_website"
+            android:onClick="goToWebSite"
+
+            />
+
+        <!--Button
+            android:id="@+id/Events"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/map"
+            android:drawableLeft="@drawable/menu_events"
+            android:drawableStart="@drawable/menu_events"
+            android:maxHeight="196dp"
+            android:minHeight="78dp"
+            android:onClick="openevents" />
+
+        <Button
+            android:id="@+id/Schedule"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/Events"
+            android:drawableLeft="@drawable/menu_schedule"
+            android:drawableStart="@drawable/menu_schedule"
+            android:maxHeight="196dp"
+            android:minHeight="78dp"
+            android:onClick="openschedule" />
+
+        <Button
+            android:id="@+id/About"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/myunm"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="24dp"
+            android:drawableLeft="@drawable/menu_about"
+            android:drawableStart="@drawable/menu_about"
+            android:onClick="openabout" />
+
+        <Button
+            android:id="@+id/myunm"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/Schedule"
+            android:layout_marginTop="17dp"
+            android:drawableLeft="@drawable/menu_myunm"
+            android:drawableStart="@drawable/menu_myunm"
+            android:onClick="openMyUNM" /-->
+
+    </RelativeLayout>
+</ScrollView>   
+    
+ 
